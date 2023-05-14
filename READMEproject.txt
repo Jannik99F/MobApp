@@ -2,6 +2,10 @@ Frontend : Kotlin Compose
 
 Database : MongoDB
 
+MongoDB : 
+	Username: MobApp
+	Password: 0sS8szNfM1AwDb0l
+
 	Requirement 1. 
 		Liste von Städten anlegen
 		durch Json File parsen nach nächstgelegener Stadt
@@ -50,3 +54,5 @@ Präsi
 		Flask Django vs Nodejs
 		
 	Mockup mit Figma, Draw.io 
+	
+	
